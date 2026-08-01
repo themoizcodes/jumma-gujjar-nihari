@@ -2,6 +2,7 @@
 /node_modules/
 /public/build/
 /public/storage/
+/bootstrap/cache/*.php
 /storage/*.key
 /storage/**/*.cache
 /storage/**/*.log
