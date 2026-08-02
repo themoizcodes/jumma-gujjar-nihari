@@ -2,7 +2,8 @@
 /node_modules/
 /public/build/
 /public/storage/
-/bootstrap/cache/*.php
+bootstrap/cache/*
+!bootstrap/cache/.gitkeep
 /storage/*.key
 /storage/**/*.cache
 /storage/**/*.log
